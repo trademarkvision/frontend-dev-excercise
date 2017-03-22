@@ -1,0 +1,383 @@
+[
+  {
+    "favoriteFruit": "apple",
+    "friends": [
+      {
+        "name": "Tamra Hays"
+      },
+      {
+        "name": "Rebekah Knox"
+      },
+      {
+        "name": "Jenkins Aguilar"
+      },
+      {
+        "name": "Tricia Carr"
+      }
+    ],
+    "email": "talley.best@undefined.me",
+    "name": {
+      "last": "Best",
+      "first": "Talley"
+    }
+  },
+  {
+    "favoriteFruit": "apple",
+    "friends": [
+      {
+        "name": "Audra Dalton"
+      },
+      {
+        "name": "Carrillo Nguyen"
+      },
+      {
+        "name": "Nannie Kelley"
+      },
+      {
+        "name": "Alyson Soto"
+      }
+    ],
+    "email": "watts.lindsey@undefined.biz",
+    "name": {
+      "last": "Lindsey",
+      "first": "Watts"
+    }
+  },
+  {
+    "favoriteFruit": "banana",
+    "friends": [
+      {
+        "name": "Langley Crosby"
+      },
+      {
+        "name": "Jessie Clark"
+      },
+      {
+        "name": "Decker Shaw"
+      },
+      {
+        "name": "Robbie Aguirre"
+      }
+    ],
+    "email": "lydia.morgan@undefined.biz",
+    "name": {
+      "last": "Morgan",
+      "first": "Lydia"
+    }
+  },
+  {
+    "favoriteFruit": "banana",
+    "friends": [
+      {
+        "name": "Clemons Deleon"
+      },
+      {
+        "name": "Katy Noel"
+      },
+      {
+        "name": "Foreman Lara"
+      }
+    ],
+    "email": "burton.newton@undefined.net",
+    "name": {
+      "last": "Newton",
+      "first": "Burton"
+    }
+  },
+  {
+    "favoriteFruit": "apple",
+    "friends": [
+      {
+        "name": "Peck Trujillo"
+      },
+      {
+        "name": "Elva Kirkland"
+      },
+      {
+        "name": "Lowe Haynes"
+      },
+      {
+        "name": "Janie Mullen"
+      },
+      {
+        "name": "Shawn Kinney"
+      }
+    ],
+    "email": "megan.ortega@undefined.io",
+    "name": {
+      "last": "Ortega",
+      "first": "Megan"
+    }
+  },
+  {
+    "favoriteFruit": "apple",
+    "friends": [
+      {
+        "name": "Jeannie Rice"
+      },
+      {
+        "name": "Murphy Walls"
+      },
+      {
+        "name": "Serrano Mason"
+      },
+      {
+        "name": "Danielle Perry"
+      },
+      {
+        "name": "Madge Cross"
+      }
+    ],
+    "email": "elliott.hurst@undefined.ca",
+    "name": {
+      "last": "Hurst",
+      "first": "Elliott"
+    }
+  },
+  {
+    "favoriteFruit": "apple",
+    "friends": [
+      {
+        "name": "Lenora Melton"
+      },
+      {
+        "name": "Rosemary Vargas"
+      },
+      {
+        "name": "Goodman Mcneil"
+      },
+      {
+        "name": "Debbie Baker"
+      },
+      {
+        "name": "Romero Gomez"
+      },
+      {
+        "name": "Deanna Wong"
+      },
+      {
+        "name": "Ochoa Mclaughlin"
+      },
+      {
+        "name": "Malinda Ingram"
+      }
+    ],
+    "email": "gay.reed@undefined.tv",
+    "name": {
+      "last": "Reed",
+      "first": "Gay"
+    }
+  },
+  {
+    "favoriteFruit": "strawberry",
+    "friends": [
+      {
+        "name": "Janis Browning"
+      },
+      {
+        "name": "Dickerson Greer"
+      },
+      {
+        "name": "Luisa Townsend"
+      },
+      {
+        "name": "Melisa Wilcox"
+      },
+      {
+        "name": "James Bush"
+      },
+      {
+        "name": "Nelson Sutton"
+      },
+      {
+        "name": "Abbott Gordon"
+      },
+      {
+        "name": "Pickett Bryant"
+      }
+    ],
+    "email": "aurora.casey@undefined.co.uk",
+    "name": {
+      "last": "Casey",
+      "first": "Aurora"
+    }
+  },
+  {
+    "favoriteFruit": "apple",
+    "friends": [
+      {
+        "name": "Delgado Sloan"
+      },
+      {
+        "name": "Tucker Yates"
+      },
+      {
+        "name": "Pratt Sanford"
+      },
+      {
+        "name": "Holland Delaney"
+      },
+      {
+        "name": "Osborn Short"
+      },
+      {
+        "name": "Joanna Barlow"
+      },
+      {
+        "name": "Duran Irwin"
+      }
+    ],
+    "email": "ethel.harris@undefined.name",
+    "name": {
+      "last": "Harris",
+      "first": "Ethel"
+    }
+  },
+  {
+    "favoriteFruit": "apple",
+    "friends": [
+      {
+        "name": "Lara Roth"
+      },
+      {
+        "name": "Cora Bender"
+      },
+      {
+        "name": "Cross Moss"
+      },
+      {
+        "name": "Elena Coleman"
+      },
+      {
+        "name": "Bowman Martinez"
+      }
+    ],
+    "email": "candace.potter@undefined.org",
+    "name": {
+      "last": "Potter",
+      "first": "Candace"
+    }
+  },
+  {
+    "favoriteFruit": "banana",
+    "friends": [
+      {
+        "name": "Patsy Gibbs"
+      },
+      {
+        "name": "Jackie Schultz"
+      },
+      {
+        "name": "Avis Conley"
+      },
+      {
+        "name": "Rosie Hampton"
+      }
+    ],
+    "email": "tammie.hubbard@undefined.info",
+    "name": {
+      "last": "Hubbard",
+      "first": "Tammie"
+    }
+  },
+  {
+    "favoriteFruit": "banana",
+    "friends": [
+      {
+        "name": "Chris Cantu"
+      },
+      {
+        "name": "Parsons Sherman"
+      },
+      {
+        "name": "Daniel Faulkner"
+      }
+    ],
+    "email": "serena.berg@undefined.com",
+    "name": {
+      "last": "Berg",
+      "first": "Serena"
+    }
+  },
+  {
+    "favoriteFruit": "strawberry",
+    "friends": [
+      {
+        "name": "Cain Vincent"
+      },
+      {
+        "name": "Webb Rodriguez"
+      },
+      {
+        "name": "Cheryl Barnes"
+      },
+      {
+        "name": "Gordon Britt"
+      },
+      {
+        "name": "Vickie Gutierrez"
+      },
+      {
+        "name": "Meagan Daugherty"
+      },
+      {
+        "name": "Tamika Norman"
+      },
+      {
+        "name": "Lott Bishop"
+      }
+    ],
+    "email": "beasley.terry@undefined.me",
+    "name": {
+      "last": "Terry",
+      "first": "Beasley"
+    }
+  },
+  {
+    "favoriteFruit": "strawberry",
+    "friends": [
+      {
+        "name": "Irene Ashley"
+      },
+      {
+        "name": "Lynda Shields"
+      },
+      {
+        "name": "Leigh Blackwell"
+      },
+      {
+        "name": "Noemi Vaughn"
+      }
+    ],
+    "email": "gilmore.carroll@undefined.biz",
+    "name": {
+      "last": "Carroll",
+      "first": "Gilmore"
+    }
+  },
+  {
+    "favoriteFruit": "banana",
+    "friends": [
+      {
+        "name": "Tisha Day"
+      },
+      {
+        "name": "Clark Waters"
+      },
+      {
+        "name": "Craft Carrillo"
+      },
+      {
+        "name": "Palmer Cochran"
+      },
+      {
+        "name": "Rush Burton"
+      }
+    ],
+    "email": "jeannine.wallace@undefined.biz",
+    "name": {
+      "last": "Wallace",
+      "first": "Jeannine"
+    }
+  }
+]

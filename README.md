@@ -6,6 +6,8 @@ The scope of this excercise is to build a simple contacts list.
 
 Use the provided [VueJS](https://vuejs.org) TypeScript template and the data provided in `app/static/data.json`. 
 
+The app includes [Axios](https://github.com/mzabriskie/axios) to make http requests.
+
 As you build the app, feel free to add any style or component as you need them.
 
 ## Install

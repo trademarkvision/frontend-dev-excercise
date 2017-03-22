@@ -1,9 +1,11 @@
 # Frontend Dev Excercise
 
 Hi 😃
+
 The scope of this excercise is to build a simple contacts list.
 
 Use the provided [VueJS](https://vuejs.org) TypeScript template and the data provided in `app/static/data.json`. 
+
 As you build the app, feel free to add any style or component as you need them.
 
 ## Install
@@ -14,7 +16,9 @@ As you build the app, feel free to add any style or component as you need them.
 
 ## Run
 
-To run the app, simply `cd app` and run `npm run dev`. The app will be available at [http://localhost:8899](http://localhost:8899) 
+To run the app, simply `cd app` and run `npm run dev`. You can access the app at [http://localhost:8899](http://localhost:8899) 
+
+Once the app is running, the data file is available at `http://localhost:8899/static/data.json`
 
 ## Submit
 

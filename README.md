@@ -24,4 +24,4 @@ Once the app is running, the data file is available at `http://localhost:8899/st
 
 ## Submit
 
-When you're satisfied with your result, either create and email us a zip archive (excluding the `node_modules` folder) or submit a Pull Request.
+When you're satisfied with your result, either create and email us a zip archive (excluding the `node_modules` folder) or fork the repo and email us the link :)

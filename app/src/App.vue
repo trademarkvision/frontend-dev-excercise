@@ -4,7 +4,7 @@
     </div>
 </template>
 
-<style>
+<style lang="scss">
     #app {
         font-family: 'Open Sans', sans-serif;
     }

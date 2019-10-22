@@ -18,15 +18,15 @@ The skeleton in the example includes `TODO` fragments to give you some guidance.
 
 - Clone this repo
 - `cd app`
-- Run `yarn install`
+- Run `yarn install` or `npm install`
 
 ## Run
 
 #### Compile and hot-reloads for development
 ```
-yarn run serve
+yarn serve
 ```
-#### Run e2e tests
+or
 ```
-yarn run test:e2e
+npm run serve
 ```

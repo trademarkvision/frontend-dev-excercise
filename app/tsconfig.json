@@ -16,11 +16,6 @@
       "mocha",
       "chai"
     ],
-    "paths": {
-      "@/*": [
-        "src/*"
-      ]
-    },
     "lib": [
       "esnext",
       "dom",

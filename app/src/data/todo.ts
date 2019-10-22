@@ -1,5 +1,5 @@
 export interface Todo {
-    title: string;
-    date: string;
-    color: string;
+  title: string;
+  date: string;
+  color: string;
 }

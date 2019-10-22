@@ -11,6 +11,7 @@
   import {Component, Vue} from 'vue-property-decorator';
   import {Todo} from "../data/todo";
   import TodoItem from "../components/TodoItem.vue";
+  import store from "../store";
 
   @Component({
     components: {
@@ -39,6 +40,7 @@
 
     created() {
       // TODO: push list of existing todos to the store
+      // this.$store...
     }
 
     get todos() {

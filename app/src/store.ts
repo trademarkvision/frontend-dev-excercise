@@ -4,7 +4,11 @@ import {Todo} from "./data/todo";
 
 Vue.use(Vuex);
 
-export default new Vuex.Store({
+export interface Store {
+  todos: Todo[]
+}
+
+export default new Vuex.Store<Store>({
   state: {
     todos: []
   },
